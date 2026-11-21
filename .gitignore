@@ -1,0 +1,10 @@
+node_modules
+dist
+coverage
+*.log
+.DS_Store
+
+# Variables de entorno reales (nunca se versionan)
+.env
+.env.*
+!.env.example
